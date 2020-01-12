@@ -3,4 +3,4 @@ This is my personal website.
 # Homepage
 ![Homepage](images/portfolio.png)
 # Live Site
-[Portfolio](https://www.php7dev.com)
+[Portfolio](https://php7dev.com)
