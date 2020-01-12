@@ -1,2 +1,4 @@
-# portfolio
-This is my portfolio website
+# My Portfolio
+This is my personal website.
+# Home
+![Homepage](images/home.png)
